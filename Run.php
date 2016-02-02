@@ -1,7 +1,7 @@
 <?php
 
-require_once 'Configs/Config.php';
-require_once 'Lib/Formula.php';
+require_once 'Config.php';
+require_once 'Formula.php';
 
 $start_time = microtime(true);
 

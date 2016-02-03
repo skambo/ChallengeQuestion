@@ -135,5 +135,4 @@ function Calculate($dataset) {
         return $perc;
     }
 ?>
-Attachments area
-Preview attachment Software Engineer Challenge Question
+
